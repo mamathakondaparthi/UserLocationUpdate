@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UserLocationUpdate</string>
+
+    <string name="Login">Login</string>
+    <string name="Register">Register</string>
+    <string name="Cancel">Cancel</string>
+    <string name="hint_userName">User Name</string>
+    <string name="hint_address">Address</string>
+    <string name="hint_Password">Password</string>
+    <string name="hint_PhoneNumber">Phone Number</string>
+    <string name="hint_Email">Email</string>
+    <string name="hint_Pincode">Pincode</string>
+</resources>
